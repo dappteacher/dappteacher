@@ -34,11 +34,16 @@ I also build secure decentralized applications and blockchain infrastructure wit
 
 ---
 
-## Blockchain Ecosystems
+## Blockchain Expertise
 
-- Ethereum
+### Execution Environments
+- EVM (Ethereum Virtual Machine)
+- SVM (Solana Virtual Machine)
+
+### Ecosystems
+- Ethereum (EVM-based chains)
 - Solana
-- Ripple
+- Ripple (XRPL)
 
 ---
 

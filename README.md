@@ -47,6 +47,9 @@ I enjoy designing systems that improve **transparency, security, and trust** in 
 
 ## 📂 Selected Projects
 
+### Crowdfunding Smart Contracts
+Smart contracts designed for transparent decentralized fundraising.
+
 ### Carbon Footprint DApp
 A decentralized application designed to track and manage carbon footprint transparency.
 
@@ -55,9 +58,6 @@ A decentralized ride-sharing platform aimed at removing centralized intermediari
 
 ### Ripple Network Explorer
 A web application that allows developers and learners to explore the functionality of the Ripple network.
-
-### Crowdfunding Smart Contracts
-Smart contracts designed for transparent decentralized fundraising.
 
 ---
 

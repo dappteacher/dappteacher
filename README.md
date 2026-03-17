@@ -1,24 +1,40 @@
 # Hi, I'm Jacob (Yaghoub) Adelzadeh 👋
 
-Blockchain Engineer | Smart Contract Developer | DeFi Builder
+## **Smart Contract Auditor** | Solidity Security Researcher | Blockchain Engineer
 
-Blockchain developer since 2018 focused on building decentralized applications, smart contracts, and blockchain infrastructure.
+I specialize in **smart contract auditing**, security analysis, and vulnerability discovery across Solidity, DeFi, and Web3 systems.
 
-I enjoy designing systems that improve **transparency, security, and trust** in digital interactions.
+My primary strength in blockchain is **Auditing** — reviewing smart contracts for security risks, logic flaws, economic vulnerabilities, and protocol design weaknesses before deployment.
+
+I also build secure decentralized applications and blockchain infrastructure with a security-first mindset.
 
 ---
 
-## 🚀 Core Expertise
+## Audit Focus
 
-- Smart Contract Development (Solidity)
-- DeFi Protocol Architecture
+- **Smart Contract Auditing**
+- **DeFi Security Review**
+- **Attack Surface Analysis**
+- **Vulnerability Research**
+- **Access Control Review**
+- **Reentrancy & Logic Flaw Detection**
+- **Oracle / Flash Loan Risk Analysis**
+- **Gas & Architecture Optimization**
+
+---
+
+## Core Expertise
+
+- Solidity
 - Smart Contract Security
-- Gas Optimization
+- DeFi Protocol Architecture
 - DApp Architecture
+- Gas Optimization
+- Foundry / Hardhat
 
 ---
 
-## ⛓ Blockchain Ecosystems
+## Blockchain Ecosystems
 
 - Ethereum
 - Solana
@@ -26,7 +42,7 @@ I enjoy designing systems that improve **transparency, security, and trust** in 
 
 ---
 
-## 💻 Programming Languages
+## Programming Languages
 
 - Solidity
 - Rust
@@ -35,7 +51,7 @@ I enjoy designing systems that improve **transparency, security, and trust** in 
 
 ---
 
-## 🛠 Development Tools
+## Development Tools
 
 - Foundry
 - Hardhat
@@ -45,7 +61,7 @@ I enjoy designing systems that improve **transparency, security, and trust** in 
 
 ---
 
-## 📂 Selected Projects
+## Selected Projects
 
 ### Crowdfunding Smart Contracts
 Smart contracts designed for transparent decentralized fundraising.
@@ -61,7 +77,7 @@ A web application that allows developers and learners to explore the functionali
 
 ---
 
-## 🔍 Protocol Knowledge
+## Protocol Knowledge
 
 Familiar with the architecture and design patterns used in modern DeFi systems including:
 
@@ -74,13 +90,13 @@ Inspired by protocol designs used in leading DeFi systems.
 
 ---
 
-## 🎓 Education & Mentorship
+## Education & Mentorship
 
 Blockchain educator helping developers understand smart contracts, Solidity programming, and Web3 architecture.
 
 ---
 
-## 🌍 Vision
+## Vision
 
 I believe blockchain technology can create more transparent and fair digital systems.
 
@@ -88,7 +104,7 @@ My goal is to contribute to impactful decentralized products and help grow the g
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 LinkedIn  
 https://www.linkedin.com/in/dappteacher/

@@ -75,25 +75,35 @@ A collection of smart contract security audits I have conducted for blockchain p
 
 Repository: https://github.com/dappteacher/projects-security-audits
 
+---
+
 ### Automated smart contract gas optimization and analysis platform.
 Smart contract gas optimization platform that helps developers lower deployment and execution costs through automated analysis and actionable insights.
 
 Repository: https://github.com/dappteacher/gas-analyzer
+
+---
 
 ### DeFi Integration Lab: Aave V3
 Foundry lab for demonstrating Aave V3 Solidity integrations, including supply, withdraw, mocks, tests, scripts, and future fork-based DeFi workflows.
 
 Repository: https://github.com/dappteacher/aave-foundry-lab
 
+---
+
 ### Mini Uniswap Liquidity Manager — Production-Grade DeFi Protocol
 A production-inspired DeFi protocol implementing Uniswap-style token swaps, liquidity provisioning, and EIP-2612 permit-based approvals. Built with Solidity and Foundry, it showcases slippage protection, comprehensive fuzz and invariant testing, and security-focused smart contract design patterns.
 
 Repository: https://github.com/dappteacher/mini-uniswap-liquidity-manager
 
+---
+
 ### OnChain Agreements — Tokenized Financial Infrastructure
 A smart contract framework for creating tokenized financial agreements with decentralized governance and programmable profit distribution. Built on a factory architecture, it enables each project to deploy its own ERC-20 token, voting system, and revenue-sharing rules in an isolated on-chain environment.
 
 Repository: https://github.com/dappteacher/onchain-agreements
+
+---
 
 ### Solidity Security Scenarios
 A collection of real-world Solidity security vulnerabilities, attack scenarios, and mitigation techniques. Each example demonstrates how an exploit works and how to prevent it using secure smart contract development practices.
@@ -104,14 +114,27 @@ Repository: https://github.com/dappteacher/solidity-security-scenarios
 
 ## Protocol Knowledge
 
-Familiar with the architecture and design patterns used in modern DeFi systems including:
+Experienced in analyzing and auditing systems based on:
 
-- Automated Market Makers (AMM)
-- Liquidity Pools
-- Yield Farming
-- Governance Mechanisms
+* Automated Market Makers (AMMs)
+* Liquidity Pool Design
+* Yield Farming Mechanisms
+* Governance & DAO Systems
+* Tokenomics & Incentive Structures
 
 Inspired by protocol designs used in leading DeFi systems.
+
+---
+
+## What I Look For in Code Reviews
+
+* Hidden trust assumptions
+* Centralization risks
+* Improper access control
+* Unbounded external calls
+* Price oracle manipulation vectors
+* MEV exposure points
+* Upgradeability risks
 
 ---
 

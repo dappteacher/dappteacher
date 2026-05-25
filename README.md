@@ -66,9 +66,7 @@ I also build secure decentralized applications and blockchain infrastructure wit
 
 ---
 
-## Selected Projects
-
-## Featured Projects
+## Selected and Featured Projects
 
 ### projects-security-audits
 

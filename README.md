@@ -91,10 +91,10 @@ Repository: https://github.com/dappteacher/aave-foundry-lab
 
 ---
 
-### Mini Uniswap Liquidity Manager — Production-Grade DeFi Protocol
+### Uniswap Liquidity Manager — Production-Grade DeFi Protocol
 A production-inspired DeFi protocol implementing Uniswap-style token swaps, liquidity provisioning, and EIP-2612 permit-based approvals. Built with Solidity and Foundry, it showcases slippage protection, comprehensive fuzz and invariant testing, and security-focused smart contract design patterns.
 
-Repository: https://github.com/dappteacher/mini-uniswap-liquidity-manager
+Repository: https://github.com/dappteacher/uniswap-liquidity-manager
 
 ---
 

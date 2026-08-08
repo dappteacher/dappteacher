@@ -1,161 +1,249 @@
 # Hi, I'm Jacob (Yaghoub) Adelzadeh 👋
 
-## **Smart Contract Auditor** | Senior Blockchain Engineer
+## Senior Software Engineer | Coding Instructor | Mentor
 
-I specialize in **smart contract auditing**, security analysis, and vulnerability discovery across Solidity, DeFi, and Web3 systems.
+I am a **Senior Software Engineer, educator, and coding instructor** with **27+ years of software engineering experience** and **21+ years of teaching experience**.
 
-My primary strength in blockchain is **Auditing** — reviewing smart contracts for security risks, logic flaws, economic vulnerabilities, and protocol design weaknesses before deployment.
+Since 1999, I have worked on software development and engineering projects across different technologies and domains. Since 2005, I have also been teaching and mentoring developers and learners through practical, project-based programming education.
 
-I also build secure decentralized applications and blockchain infrastructure with a security-first mindset.
-
----
-
-## Audit Focus
-
-- **Smart Contract Auditing**
-- **DeFi Security Review**
-- **Attack Surface Analysis**
-- **Vulnerability Research**
-- **Access Control Review**
-- **Reentrancy & Logic Flaw Detection**
-- **Oracle / Flash Loan Risk Analysis**
-- **Gas & Architecture Optimization**
+My goal is to make complex programming concepts easier to understand by combining **real-world engineering experience, clear explanations, practical examples, and hands-on projects**.
 
 ---
 
-## Core Expertise
+## 👨‍🏫 What I Teach
+
+I am particularly interested in helping students and developers learn:
+
+- **Programming Fundamentals**
+- **Python Programming**
+- **Web Development**
+- **Backend Development**
+- **Full-Stack Development**
+- **JavaScript / TypeScript**
+- **Software Engineering Principles**
+- **Object-Oriented Programming**
+- **APIs and Web Services**
+- **Database Fundamentals**
+- **Git & GitHub**
+- **Problem Solving and Debugging**
+
+I also teach more specialized topics for learners interested in blockchain and Web3:
+
+- Solidity
+- Smart Contract Development
+- Smart Contract Security
+- DeFi Architecture
+- Web3 Development
+- Foundry / Hardhat
+
+My teaching approach is not limited to syntax. I focus on helping learners understand **how and why software works**, how to structure projects, how to debug problems, and how to turn concepts into working applications.
+
+---
+
+## 🎓 Teaching & Mentorship
+
+I have been teaching programming and software engineering since **2005**, working with students and developers at different levels.
+
+My teaching philosophy is:
+
+> **Learn the concept → understand the implementation → build a project → review the code → improve the solution.**
+
+I believe that experienced developers can learn faster when theory is connected to real code and practical engineering decisions.
+
+I use GitHub projects, examples, exercises, technical notes, and real-world scenarios as part of my learning materials.
+
+---
+
+## 💻 Software Engineering Background
+
+My software engineering career began in **January 1999**.
+
+Over more than 27 years, I have worked with a broad range of programming technologies and software development concepts, including application architecture, backend development, web development, databases, APIs, distributed systems, and blockchain engineering.
+
+This repository is therefore not only a collection of code. It is also a public portfolio of **teaching materials, practical examples, experiments, and engineering projects**.
+
+---
+
+## 🧑‍💻 Core Programming Skills
+
+- Python
+- JavaScript
+- TypeScript
+- Rust
+- Solidity
+- Go
+- HTML / CSS
+- SQL
+
+### Web & Backend
+
+- Web Development
+- REST APIs
+- Backend Development
+- Node.js
+- Express.js
+- React
+- Next.js
+- Database Integration
+- Web3 Integration
+
+### Development Tools
+
+- Git
+- GitHub
+- Foundry
+- Hardhat
+- Ethers.js
+- Web3.js
+
+---
+
+## 📚 Teaching-Oriented GitHub Projects
+
+Some repositories are specifically useful as learning resources and practical programming examples.
+
+### Rust Examples
+
+A structured collection of Rust examples covering fundamentals and progressively more advanced concepts, including data types, control flow, tuples, closures, generics, structs, vectors, borrowing, lifetimes, traits, error handling, concurrency, file management, serialization, databases, and a mini project.
+
+Repository: https://github.com/dappteacher/rust-examples
+
+### Solidity Design Patterns
+
+A collection of Solidity design-pattern examples covering topics such as ERC-20, ERC-721, ERC-1155, factories, DAOs, wallets, auctions, randomness, Uniswap-style patterns, and other practical smart-contract examples.
+
+Repository: https://github.com/dappteacher/solidity-design-patterns
+
+### Solidity Security Scenarios
+
+Practical examples of Solidity vulnerabilities and attack scenarios designed to help developers understand how security issues happen, how they can be detected, and how they can be mitigated.
+
+Repository: https://github.com/dappteacher/solidity-security-scenarios
+
+### Solidity Projects Examples
+
+A collection of Solidity smart-contract examples covering different use cases and reusable implementation ideas for developers who want to learn through practical code.
+
+Repository: https://github.com/dappteacher/solidity-projects-examples
+
+---
+
+## 🌐 Web & DApp Projects
+
+### URL Shortener
+
+A web development project demonstrating application development outside the blockchain ecosystem.
+
+Repository: https://github.com/dappteacher/URL-shortener
+
+### Voting DApp
+
+A practical full-stack-style project combining Solidity smart contracts with a web frontend and Web3 integration. It demonstrates how frontend applications can communicate with blockchain-based backend logic.
+
+Repository: https://github.com/dappteacher/voting-dapp
+
+---
+
+## 🔐 Blockchain & Smart Contract Engineering
+
+Blockchain is one of my specialized areas rather than the limit of my teaching scope.
+
+I have extensive practical experience with:
 
 - Solidity
 - Smart Contract Security
 - DeFi Protocol Architecture
 - DApp Architecture
 - Gas Optimization
-- Foundry / Hardhat
-
----
-
-## Blockchain Expertise
-
-### Execution Environments
-- EVM (Ethereum Virtual Machine)
-- SVM (Solana Virtual Machine)
-
-### Ecosystems
-- Ethereum (EVM-based chains)
-- Solana
-- Ripple (XRPL)
-
----
-
-## Programming Languages
-
-- Solidity
-- Rust
-- Go
-- Python
-
----
-
-## Development Tools
-
 - Foundry
 - Hardhat
-- Git
-- Ethers.js
-- Web3.js
+- Ethereum / EVM
+- Solana / Rust
+- Tokenization
+- Account Abstraction
+- Protocol Design
+
+Selected work includes smart contract security labs, DeFi projects, tokenization projects, auditing research, and blockchain engineering notes.
 
 ---
 
-## Selected and Featured Projects
+## 🧪 Security & Engineering Research
 
-### projects-security-audits
+I also maintain repositories for studying software and smart-contract security through practical examples.
 
-### Smart Contract Security Lab
-A collection of smart contract security audits I have conducted for blockchain projects. Each audit includes identified vulnerabilities, risk assessments, and recommendations for remediation.
+My security work focuses on:
 
-Repository: https://github.com/dappteacher/projects-security-audits
-
----
-
-### Automated smart contract gas optimization and analysis platform.
-Smart contract gas optimization platform that helps developers lower deployment and execution costs through automated analysis and actionable insights.
-
-Repository: https://github.com/dappteacher/gas-analyzer
-
----
-
-### DeFi Integration Lab: Aave V3
-Foundry lab for demonstrating Aave V3 Solidity integrations, including supply, withdraw, mocks, tests, scripts, and future fork-based DeFi workflows.
-
-Repository: https://github.com/dappteacher/aave-foundry-lab
+- Access Control
+- Reentrancy
+- Logic Flaws
+- Oracle Manipulation
+- Flash-Loan Risks
+- Economic Vulnerabilities
+- Upgradeability Risks
+- Centralization Risks
+- Attack Surface Analysis
+- Gas and Architecture Optimization
 
 ---
 
-### Uniswap Liquidity Manager — Production-Grade DeFi Protocol
-A production-inspired DeFi protocol implementing Uniswap-style token swaps, liquidity provisioning, and EIP-2612 permit-based approvals. Built with Solidity and Foundry, it showcases slippage protection, comprehensive fuzz and invariant testing, and security-focused smart contract design patterns.
+## 📖 Public Knowledge Base
 
-Repository: https://github.com/dappteacher/uniswap-liquidity-manager
+I publish technical notes and practical engineering articles covering software and blockchain engineering.
 
----
+My goal is to turn engineering experience into useful learning material for developers, students, and technical professionals.
 
-### OnChain Agreements — Tokenized Financial Infrastructure
-A smart contract framework for creating tokenized financial agreements with decentralized governance and programmable profit distribution. Built on a factory architecture, it enables each project to deploy its own ERC-20 token, voting system, and revenue-sharing rules in an isolated on-chain environment.
-
-Repository: https://github.com/dappteacher/onchain-agreements
+Repository: https://github.com/dappteacher/blockchain-engineering-notes
 
 ---
 
-### Solidity Security Scenarios
-A collection of real-world Solidity security vulnerabilities, attack scenarios, and mitigation techniques. Each example demonstrates how an exploit works and how to prevent it using secure smart contract development practices.
+## 🎯 My Teaching Mission
 
-Repository: https://github.com/dappteacher/solidity-security-scenarios
+I want to help students and developers move from:
 
----
+**"I know the syntax."**
 
-## Protocol Knowledge
+to:
 
-Experienced in analyzing and auditing systems based on:
+**"I understand the concept, I can build it, I can debug it, and I understand why it works."**
 
-* Automated Market Makers (AMMs)
-* Liquidity Pool Design
-* Yield Farming Mechanisms
-* Governance & DAO Systems
-* Tokenomics & Incentive Structures
-
-Inspired by protocol designs used in leading DeFi systems.
+Whether you are starting with programming, learning Python or Web Development, improving your software-engineering skills, or moving into advanced blockchain development, I focus on practical learning and real code.
 
 ---
 
-## What I Look For in Code Reviews
+## 🤝 Teaching, Mentoring & Collaboration
 
-* Hidden trust assumptions
-* Centralization risks
-* Improper access control
-* Unbounded external calls
-* Price oracle manipulation vectors
-* MEV exposure points
-* Upgradeability risks
+I am open to:
 
----
-
-## Education & Mentorship
-
-Blockchain educator helping developers understand smart contracts, Solidity programming, and Web3 architecture.
+- Coding instruction
+- Programming mentoring
+- One-to-one tutoring
+- Project-based learning
+- Code reviews
+- Technical mentoring
+- Software engineering guidance
+- Web Development and Python education
+- Advanced Solidity / Web3 education
 
 ---
 
-## Vision
+## 📌 About This GitHub
 
-I believe blockchain technology can create more transparent and fair digital systems.
+This GitHub profile contains a mixture of:
 
-My goal is to contribute to impactful decentralized products and help grow the global Web3 developer ecosystem.
+- Teaching examples
+- Programming exercises
+- Web development projects
+- Software engineering experiments
+- Blockchain projects
+- Security research
+- Technical notes
+
+I continuously improve these repositories to make them more useful as practical learning resources.
 
 ---
 
-## Connect With Me
+## 🔗 Connect With Me
 
-LinkedIn  
-https://www.linkedin.com/in/dappteacher/
+**LinkedIn:** https://www.linkedin.com/in/dappteacher/
 
-GitHub  
-https://github.com/dappteacher
+**GitHub:** https://github.com/dappteacher
